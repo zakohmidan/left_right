@@ -38,7 +38,8 @@ form {
   border: none;
 }
 .top-banner {
-  margin-bottom: 30px;
+  width: 970px;
+  height: 250px; 
   text-align: center;
   background-color:transparent;
 }
