@@ -38,6 +38,7 @@ form {
   border: none;
 }
 .top-banner {
+  display:block;
   align-items: center;
   width: 970px;
   height: 250px; 
